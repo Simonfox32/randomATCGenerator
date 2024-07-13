@@ -1,0 +1,27 @@
+html {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  body {
+    background-color: white;
+    margin: auto;
+    font-family: Roboto;
+    max-width: 1000px;
+  }
+
+  #header { 
+    border-radius: 5px;
+    background-color: aquamarine;
+    padding: 2rem;
+    border: black 2px solid;
+  }
+
+  .container {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+p, button {
+    margin: 20px;
+}
